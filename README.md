@@ -13,26 +13,26 @@ Always eager to explore, create, and share innovative ideas! 🚀
 
 ### Languages  
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" title="PHP" alt="PHP" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" title="C++" alt="C++" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" title="Node.js" alt="Node.js" width="70" height="70"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=white" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/PHP-8.1-blueviolet?style=flat&logo=php&logoColor=white" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-17-orange?style=flat&logo=java&logoColor=white" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/C++-14-blue?style=flat&logo=cplusplus&logoColor=white" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3.9-green?style=flat&logo=python&logoColor=white" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-4.8-blue?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-16-green?style=flat&logo=node.js&logoColor=white" alt="Node.js" width="40" height="40"/>&nbsp;
 </div>  
 
 ---
 
 ### Frameworks  
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" title="Laravel" alt="Laravel" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" title="Symfony" alt="Symfony" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" title="React" alt="React" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" title="Vue.js" alt="Vue.js" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" title="Django" alt="Django" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg" title="CodeIgniter" alt="CodeIgniter" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" title="Next.js" alt="Next.js" width="70" height="70"/>&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-9.x-red?style=flat&logo=laravel&logoColor=white" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Symfony-6.x-black?style=flat&logo=symfony&logoColor=white" alt="Symfony" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-18.0-61DAFB?style=flat&logo=react&logoColor=white" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-3.0-brightgreen?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Django-4.0-darkgreen?style=flat&logo=django&logoColor=white" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/CodeIgniter-4.0-red?style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-13.0-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" width="40" height="40"/>&nbsp;
 </div>  
 
 ---
