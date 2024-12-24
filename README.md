@@ -12,22 +12,22 @@ Always eager to explore, create, and share innovative ideas! 🚀
 ## 🔧 Technologies I Work With  
 
 ### Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
-![PHP](https://img.shields.io/badge/PHP-8.1-blueviolet)  
-![Java](https://img.shields.io/badge/Java-17-orange)  
-![C++](https://img.shields.io/badge/C++-14-blue)  
-![Python](https://img.shields.io/badge/Python-3.9-green)  
-![TypeScript](https://img.shields.io/badge/TypeScript-4.8-blue)  
-![Node.js](https://img.shields.io/badge/Node.js-16.0-green)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
+- ![PHP](https://img.shields.io/badge/PHP-8.1-blueviolet)  
+- ![Java](https://img.shields.io/badge/Java-17-orange)  
+- ![C++](https://img.shields.io/badge/C++-14-blue)  
+- ![Python](https://img.shields.io/badge/Python-3.9-green)  
+- ![TypeScript](https://img.shields.io/badge/TypeScript-4.8-blue)  
+- ![Node.js](https://img.shields.io/badge/Node.js-16.0-green)  
 
 ### Frameworks  
-![Laravel](https://img.shields.io/badge/Laravel-9.x-red)  
-![Symfony](https://img.shields.io/badge/Symfony-6.x-black)  
-![React](https://img.shields.io/badge/React-18.0-61DAFB)  
-![Vue.js](https://img.shields.io/badge/Vue.js-3.0-brightgreen)  
-![Django](https://img.shields.io/badge/Django-4.0-darkgreen)  
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4.0-red)  
-![Next.js](https://img.shields.io/badge/Next.js-13.0-black)
+- ![Laravel](https://img.shields.io/badge/Laravel-9.x-red)  
+- ![Symfony](https://img.shields.io/badge/Symfony-6.x-black)  
+- ![React](https://img.shields.io/badge/React-18.0-61DAFB)  
+- ![Vue.js](https://img.shields.io/badge/Vue.js-3.0-brightgreen)  
+- ![Django](https://img.shields.io/badge/Django-4.0-darkgreen)  
+- ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4.0-red)  
+- ![Next.js](https://img.shields.io/badge/Next.js-13.0-black)
 
 ---
 
