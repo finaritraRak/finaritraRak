@@ -13,26 +13,26 @@ Always eager to explore, create, and share innovative ideas! 🚀
 
 ### Languages  
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=white" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/PHP-8.1-blueviolet?style=flat&logo=php&logoColor=white" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Java-17-orange?style=flat&logo=java&logoColor=white" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/C++-14-blue?style=flat&logo=cplusplus&logoColor=white" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3.9-green?style=flat&logo=python&logoColor=white" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-4.8-blue?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-16-green?style=flat&logo=node.js&logoColor=white" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_C4tmfY.json" width="40" height="40" alt="JavaScript Animation"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_lzrp1fjo.json" width="40" height="40" alt="PHP Animation"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_H60GpY.json" width="40" height="40" alt="Java Animation"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_ay2z2q0a.json" width="40" height="40" alt="C++ Animation"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_qaqmgmjq.json" width="40" height="40" alt="Python Animation"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_x2xxk8wv.json" width="40" height="40" alt="TypeScript Animation"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_hb93tuh8.json" width="40" height="40" alt="Node.js Animation"/>&nbsp;
 </div>  
 
 ---
 
 ### Frameworks  
 <div align="center">
-  <img src="https://img.shields.io/badge/Laravel-9.x-red?style=flat&logo=laravel&logoColor=white" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Symfony-6.x-black?style=flat&logo=symfony&logoColor=white" alt="Symfony" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/React-18.0-61DAFB?style=flat&logo=react&logoColor=white" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-3.0-brightgreen?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Django-4.0-darkgreen?style=flat&logo=django&logoColor=white" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/CodeIgniter-4.0-red?style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-13.0-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_YZP1Z5.json" width="40" height="40" alt="Laravel Animation"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_tbw6vqhx.json" width="40" height="40" alt="Symfony Animation"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_MjlHVz.json" width="40" height="40" alt="React Animation"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_FkwR6f.json" width="40" height="40" alt="Vue.js Animation"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_mXK7tHr1.json" width="40" height="40" alt="Django Animation"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_3Vw0mo.json" width="40" height="40" alt="CodeIgniter Animation"/>&nbsp;
+  <img src="https://assets7.lottiefiles.com/packages/lf20_gsyXxj.json" width="40" height="40" alt="Next.js Animation"/>&nbsp;
 </div>  
 
 ---
@@ -48,7 +48,7 @@ Always eager to explore, create, and share innovative ideas! 🚀
 
 ## 🎨 A Touch of Animation  
 
-<img src="https://assets9.lottiefiles.com/packages/lf20_9jnyp3t6.json" width="400" alt="Developer Animation" />  
+<img src="https://assets7.lottiefiles.com/packages/lf20_tfb3estd.json" width="400" alt="Developer Animation" />  
 
 ---
 
