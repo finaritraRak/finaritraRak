@@ -13,26 +13,26 @@ Always eager to explore, create, and share innovative ideas! 🚀
 
 ### Languages  
 <div align="center">
-  <img src="https://assets1.lottiefiles.com/packages/lf20_n9dqmfkh.json" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
-  <img src="https://assets1.lottiefiles.com/packages/lf20_s9pvflkk.json" title="PHP" alt="PHP" width="70" height="70"/>&nbsp;
-  <img src="https://assets1.lottiefiles.com/packages/lf20_vgy71bkp.json" title="Java" alt="Java" width="70" height="70"/>&nbsp;
-  <img src="https://assets1.lottiefiles.com/packages/lf20_4m5pk8bt.json" title="C++" alt="C++" width="70" height="70"/>&nbsp;
-  <img src="https://assets1.lottiefiles.com/packages/lf20_oaytswus.json" title="Python" alt="Python" width="70" height="70"/>&nbsp;
-  <img src="https://assets1.lottiefiles.com/packages/lf20_kd9hrzu9.json" title="TypeScript" alt="TypeScript" width="70" height="70"/>&nbsp;
-  <img src="https://assets1.lottiefiles.com/packages/lf20_jtebdmxy.json" title="Node.js" alt="Node.js" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" title="PHP" alt="PHP" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" title="C++" alt="C++" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" title="Node.js" alt="Node.js" width="70" height="70"/>&nbsp;
 </div>  
 
 ---
 
 ### Frameworks  
 <div align="center">
-  <img src="https://assets1.lottiefiles.com/packages/lf20_v9nsmol7.json" title="Laravel" alt="Laravel" width="70" height="70"/>&nbsp;
-  <img src="https://assets1.lottiefiles.com/packages/lf20_kzmfbjz7.json" title="Symfony" alt="Symfony" width="70" height="70"/>&nbsp;
-  <img src="https://assets1.lottiefiles.com/packages/lf20_n9t3gwfn.json" title="React" alt="React" width="70" height="70"/>&nbsp;
-  <img src="https://assets1.lottiefiles.com/packages/lf20_rnxxrt8e.json" title="Vue.js" alt="Vue.js" width="70" height="70"/>&nbsp;
-  <img src="https://assets1.lottiefiles.com/packages/lf20_v4afmsuk.json" title="Django" alt="Django" width="70" height="70"/>&nbsp;
-  <img src="https://assets1.lottiefiles.com/packages/lf20_p7m6nsy8.json" title="CodeIgniter" alt="CodeIgniter" width="70" height="70"/>&nbsp;
-  <img src="https://assets1.lottiefiles.com/packages/lf20_vu3u6cpj.json" title="Next.js" alt="Next.js" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" title="Laravel" alt="Laravel" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" title="Symfony" alt="Symfony" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" title="React" alt="React" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" title="Vue.js" alt="Vue.js" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" title="Django" alt="Django" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg" title="CodeIgniter" alt="CodeIgniter" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" title="Next.js" alt="Next.js" width="70" height="70"/>&nbsp;
 </div>  
 
 ---
