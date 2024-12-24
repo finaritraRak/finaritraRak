@@ -13,26 +13,26 @@ Always eager to explore, create, and share innovative ideas! 🚀
 
 ### Languages  
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt="JavaScript"/>&nbsp;
-  <img src="https://img.icons8.com/officel/40/000000/php-logo.png" width="40" height="40" alt="PHP"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/java.png" width="40" height="40" alt="Java"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" height="40" alt="C++"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40" alt="Python"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40" alt="TypeScript"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="Node.js"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/javascript.png" width="40" height="40" alt="JavaScript Icon"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/php.png" width="40" height="40" alt="PHP Icon"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/java.png" width="40" height="40" alt="Java Icon"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/c-plus-plus.png" width="40" height="40" alt="C++ Icon"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/python.png" width="40" height="40" alt="Python Icon"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/typescript.png" width="40" height="40" alt="TypeScript Icon"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/nodejs.png" width="40" height="40" alt="Node.js Icon"/>&nbsp;
 </div>  
 
 ---
 
 ### Frameworks  
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/laravel.png" width="40" height="40" alt="Laravel"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/symfony.png" width="40" height="40" alt="Symfony"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40" alt="React"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="40" height="40" alt="Vue.js"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/django.png" width="40" height="40" alt="Django"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/codeigniter.png" width="40" height="40" alt="CodeIgniter"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="40" height="40" alt="Next.js"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/laravel.png" width="40" height="40" alt="Laravel Icon"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/symfony.png" width="40" height="40" alt="Symfony Icon"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/react-native.png" width="40" height="40" alt="React Icon"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/vue-js.png" width="40" height="40" alt="Vue.js Icon"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/django.png" width="40" height="40" alt="Django Icon"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/codeigniter.png" width="40" height="40" alt="CodeIgniter Icon"/>&nbsp;
+  <img src="https://img.icons8.com/ios/50/000000/nextjs.png" width="40" height="40" alt="Next.js Icon"/>&nbsp;
 </div>  
 
 ---
