@@ -12,22 +12,30 @@ Always eager to explore, create, and share innovative ideas! 🚀
 ## 🔧 Technologies I Work With  
 
 ### Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) 
-![PHP](https://img.shields.io/badge/PHP-8.1-blueviolet) 
-![Java](https://img.shields.io/badge/Java-17-orange) 
-![C++](https://img.shields.io/badge/C++-14-blue) 
-![Python](https://img.shields.io/badge/Python-3.9-green) 
-![TypeScript](https://img.shields.io/badge/TypeScript-4.8-blue) 
-![Node.js](https://img.shields.io/badge/Node.js-16.0-green)  
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="70" height="70"/>&nbsp;
+</div>  
+
+---
 
 ### Frameworks  
-![Laravel](https://img.shields.io/badge/Laravel-9.x-red) 
-![Symfony](https://img.shields.io/badge/Symfony-6.x-black) 
-![React](https://img.shields.io/badge/React-18.0-61DAFB) 
-![Vue.js](https://img.shields.io/badge/Vue.js-3.0-brightgreen) 
-![Django](https://img.shields.io/badge/Django-4.0-darkgreen) 
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4.0-red) 
-![Next.js](https://img.shields.io/badge/Next.js-13.0-black)  
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" title="CodeIgniter" alt="CodeIgniter" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="70" height="70"/>&nbsp;
+</div>  
 
 ---
 
@@ -42,7 +50,7 @@ Always eager to explore, create, and share innovative ideas! 🚀
 
 ## 🎨 A Touch of Animation  
 
-<img src="https://assets7.lottiefiles.com/packages/lf20_tfb3estd.json" width="400" alt="Developer Animation" />  
+<img src="https://assets9.lottiefiles.com/packages/lf20_9jnyp3t6.json" width="400" alt="Developer Animation" />  
 
 ---
 
