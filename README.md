@@ -13,26 +13,26 @@ Always eager to explore, create, and share innovative ideas! 🚀
 
 ### Languages  
 <div align="center">
-  <img src="https://assets7.lottiefiles.com/packages/lf20_t3m0mbos.json" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_q0xxkgxi.json" title="PHP" alt="PHP" width="70" height="70"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_hpohk1wh.json" title="Java" alt="Java" width="70" height="70"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_xlmmw0kx.json" title="C++" alt="C++" width="70" height="70"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_7xtkhbhq.json" title="Python" alt="Python" width="70" height="70"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_t7q0dhzi.json" title="TypeScript" alt="TypeScript" width="70" height="70"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_dub7wfxk.json" title="Node.js" alt="Node.js" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_n9dqmfkh.json" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_s9pvflkk.json" title="PHP" alt="PHP" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_vgy71bkp.json" title="Java" alt="Java" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_4m5pk8bt.json" title="C++" alt="C++" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_oaytswus.json" title="Python" alt="Python" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_kd9hrzu9.json" title="TypeScript" alt="TypeScript" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_jtebdmxy.json" title="Node.js" alt="Node.js" width="70" height="70"/>&nbsp;
 </div>  
 
 ---
 
 ### Frameworks  
 <div align="center">
-  <img src="https://assets7.lottiefiles.com/packages/lf20_zxqmdybb.json" title="Laravel" alt="Laravel" width="70" height="70"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_jpvm7xv7.json" title="Symfony" alt="Symfony" width="70" height="70"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_o2tn6mtm.json" title="React" alt="React" width="70" height="70"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_nyyh9bwo.json" title="Vue.js" alt="Vue.js" width="70" height="70"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_hxc9vepv.json" title="Django" alt="Django" width="70" height="70"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_pqcbq64w.json" title="CodeIgniter" alt="CodeIgniter" width="70" height="70"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_t2onrbyc.json" title="Next.js" alt="Next.js" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_v9nsmol7.json" title="Laravel" alt="Laravel" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_kzmfbjz7.json" title="Symfony" alt="Symfony" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_n9t3gwfn.json" title="React" alt="React" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_rnxxrt8e.json" title="Vue.js" alt="Vue.js" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_v4afmsuk.json" title="Django" alt="Django" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_p7m6nsy8.json" title="CodeIgniter" alt="CodeIgniter" width="70" height="70"/>&nbsp;
+  <img src="https://assets1.lottiefiles.com/packages/lf20_vu3u6cpj.json" title="Next.js" alt="Next.js" width="70" height="70"/>&nbsp;
 </div>  
 
 ---
