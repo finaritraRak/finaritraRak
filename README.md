@@ -13,26 +13,26 @@ Always eager to explore, create, and share innovative ideas! 🚀
 
 ### Languages  
 <div align="center">
-  <img src="https://assets7.lottiefiles.com/packages/lf20_C4tmfY.json" width="40" height="40" alt="JavaScript Animation"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_lzrp1fjo.json" width="40" height="40" alt="PHP Animation"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_H60GpY.json" width="40" height="40" alt="Java Animation"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_ay2z2q0a.json" width="40" height="40" alt="C++ Animation"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_qaqmgmjq.json" width="40" height="40" alt="Python Animation"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_x2xxk8wv.json" width="40" height="40" alt="TypeScript Animation"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_hb93tuh8.json" width="40" height="40" alt="Node.js Animation"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt="JavaScript"/>&nbsp;
+  <img src="https://img.icons8.com/officel/40/000000/php-logo.png" width="40" height="40" alt="PHP"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/java.png" width="40" height="40" alt="Java"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" height="40" alt="C++"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40" alt="Python"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40" alt="TypeScript"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="Node.js"/>&nbsp;
 </div>  
 
 ---
 
 ### Frameworks  
 <div align="center">
-  <img src="https://assets7.lottiefiles.com/packages/lf20_YZP1Z5.json" width="40" height="40" alt="Laravel Animation"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_tbw6vqhx.json" width="40" height="40" alt="Symfony Animation"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_MjlHVz.json" width="40" height="40" alt="React Animation"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_FkwR6f.json" width="40" height="40" alt="Vue.js Animation"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_mXK7tHr1.json" width="40" height="40" alt="Django Animation"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_3Vw0mo.json" width="40" height="40" alt="CodeIgniter Animation"/>&nbsp;
-  <img src="https://assets7.lottiefiles.com/packages/lf20_gsyXxj.json" width="40" height="40" alt="Next.js Animation"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/laravel.png" width="40" height="40" alt="Laravel"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/symfony.png" width="40" height="40" alt="Symfony"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40" alt="React"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="40" height="40" alt="Vue.js"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/django.png" width="40" height="40" alt="Django"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/codeigniter.png" width="40" height="40" alt="CodeIgniter"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="40" height="40" alt="Next.js"/>&nbsp;
 </div>  
 
 ---
