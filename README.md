@@ -10,9 +10,24 @@ Always eager to explore, create, and share innovative ideas! 🚀
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ## 🔧 Technologies I Work With  
-![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Python](https://img.shields.io/badge/Python-3.9-green)  
-![React](https://img.shields.io/badge/React-JS-61DAFB) ![Node](https://img.shields.io/badge/Node.js-green)
+
+### Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
+![PHP](https://img.shields.io/badge/PHP-8.1-blueviolet)  
+![Java](https://img.shields.io/badge/Java-17-orange)  
+![C++](https://img.shields.io/badge/C++-14-blue)  
+![Python](https://img.shields.io/badge/Python-3.9-green)  
+![TypeScript](https://img.shields.io/badge/TypeScript-4.8-blue)  
+![Node.js](https://img.shields.io/badge/Node.js-16.0-green)  
+
+### Frameworks  
+![Laravel](https://img.shields.io/badge/Laravel-9.x-red)  
+![Symfony](https://img.shields.io/badge/Symfony-6.x-black)  
+![React](https://img.shields.io/badge/React-18.0-61DAFB)  
+![Vue.js](https://img.shields.io/badge/Vue.js-3.0-brightgreen)  
+![Django](https://img.shields.io/badge/Django-4.0-darkgreen)  
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4.0-red)  
+![Next.js](https://img.shields.io/badge/Next.js-13.0-black)
 
 ---
 
@@ -20,12 +35,14 @@ Always eager to explore, create, and share innovative ideas! 🚀
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=radical)  
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=<username>&theme=dracula)
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=<username>&theme=dracula)
 
 ---
 
 ## 🎨 A Touch of Animation  
-<img src="https://assets2.lottiefiles.com/private_files/lf30_j7bu41ea.json" width="400" alt="Developer Animation" />  
+
+<img src="https://assets7.lottiefiles.com/packages/lf20_tfb3estd.json" width="400" alt="Developer Animation" />  
 
 ---
 
